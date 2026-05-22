@@ -1,0 +1,201 @@
+EmployeeID,Age,Department,JobRole,Gender,MonthlyIncome,OverTime,YearsAtCompany,JobSatisfaction,Attrition,Age_Group,Salary_Slab,Experience_Level,Attrition_Flag
+1,23,Human Resources,Human Resources,Male,12012,Yes,7,4,No,20-30,High,Senior,0
+2,27,Sales,Sales Executive,Male,10164,Yes,7,4,No,20-30,High,Senior,0
+3,39,Sales,Sales Representative,Female,3212,No,5,2,No,31-40,Low,Mid-Level,0
+4,28,Sales,Sales Representative,Female,6039,No,12,1,Yes,20-30,Medium,Senior,1
+5,56,Human Resources,Manager,Female,7090,No,12,2,Yes,51+,Medium,Senior,1
+6,24,Human Resources,Human Resources,Male,10467,Yes,9,4,No,20-30,High,Senior,0
+7,45,Research & Development,Laboratory Technician,Female,8329,Yes,11,2,No,41-50,Medium,Senior,0
+8,32,Human Resources,Human Resources,Male,18147,No,12,1,No,31-40,High,Senior,0
+9,42,Sales,Sales Executive,Female,16145,Yes,8,4,Yes,41-50,High,Senior,1
+10,51,Research & Development,Healthcare Representative,Female,7681,No,8,4,Yes,51+,Medium,Senior,1
+11,30,Research & Development,Research Scientist,Male,19696,Yes,15,2,Yes,20-30,High,Senior,1
+12,49,Human Resources,Human Resources,Female,5081,No,12,1,No,41-50,Medium,Senior,0
+13,56,Human Resources,Human Resources,Female,11743,No,20,2,No,51+,High,Senior,0
+14,38,Research & Development,Research Scientist,Male,19403,No,5,2,No,31-40,High,Mid-Level,0
+15,32,Sales,Sales Representative,Male,3018,Yes,19,3,No,31-40,Low,Senior,0
+16,25,Research & Development,Research Scientist,Male,10892,No,18,1,No,20-30,High,Senior,0
+17,30,Human Resources,Human Resources,Female,18574,Yes,17,2,Yes,20-30,High,Senior,1
+18,47,Human Resources,Manager,Female,15236,Yes,14,2,No,41-50,High,Senior,0
+19,43,Sales,Sales Executive,Male,3689,Yes,18,1,No,41-50,Low,Senior,0
+20,36,Human Resources,Human Resources,Male,5208,Yes,1,3,No,31-40,Medium,Junior,0
+21,35,Human Resources,Manager,Male,7335,No,18,4,No,31-40,Medium,Senior,0
+22,28,Sales,Sales Executive,Female,17124,Yes,11,1,No,20-30,High,Senior,0
+23,43,Sales,Sales Representative,Female,6580,Yes,7,4,No,41-50,Medium,Senior,0
+24,51,Sales,Sales Representative,Male,11185,Yes,2,1,No,51+,High,Junior,0
+25,32,Sales,Sales Executive,Female,16317,Yes,15,2,No,31-40,High,Senior,0
+26,46,Research & Development,Research Scientist,Female,11690,Yes,14,2,No,41-50,High,Senior,0
+27,25,Research & Development,Research Scientist,Female,4997,Yes,10,1,Yes,20-30,Low,Senior,1
+28,33,Human Resources,Human Resources,Male,5245,No,19,1,Yes,31-40,Medium,Senior,1
+29,24,Human Resources,Human Resources,Female,5686,No,13,2,No,20-30,Medium,Senior,0
+30,37,Human Resources,Manager,Female,11703,No,12,3,Yes,31-40,High,Senior,1
+31,51,Sales,Sales Executive,Female,6276,Yes,2,3,No,51+,Medium,Junior,0
+32,45,Sales,Sales Executive,Female,12338,Yes,5,3,No,41-50,High,Mid-Level,0
+33,30,Human Resources,Human Resources,Male,11666,No,3,3,No,20-30,High,Mid-Level,0
+34,43,Human Resources,Human Resources,Female,9671,No,20,1,No,41-50,Medium,Senior,0
+35,49,Sales,Manager,Male,12066,No,1,2,Yes,41-50,High,Junior,1
+36,57,Human Resources,Manager,Male,17014,Yes,17,1,Yes,51+,High,Senior,1
+37,57,Research & Development,Healthcare Representative,Female,7852,No,13,1,Yes,51+,Medium,Senior,1
+38,37,Research & Development,Research Scientist,Female,6368,Yes,11,2,No,31-40,Medium,Senior,0
+39,48,Sales,Sales Executive,Female,3812,No,5,2,No,41-50,Low,Mid-Level,0
+40,28,Research & Development,Research Scientist,Male,15535,Yes,1,4,No,20-30,High,Junior,0
+41,36,Research & Development,Laboratory Technician,Female,10304,No,0,3,No,31-40,High,Junior,0
+42,44,Sales,Sales Representative,Female,19692,Yes,12,1,No,41-50,High,Senior,0
+43,38,Research & Development,Research Scientist,Female,4253,No,3,4,No,31-40,Low,Mid-Level,0
+44,46,Human Resources,Human Resources,Female,9228,Yes,8,2,Yes,41-50,Medium,Senior,1
+45,26,Research & Development,Laboratory Technician,Male,13819,No,19,3,No,20-30,High,Senior,0
+46,42,Human Resources,Manager,Male,16185,No,9,4,No,41-50,High,Senior,0
+47,58,Human Resources,Human Resources,Male,12861,No,12,3,No,51+,High,Senior,0
+48,42,Sales,Sales Representative,Male,18236,No,14,2,No,41-50,High,Senior,0
+49,40,Human Resources,Human Resources,Male,19890,Yes,20,3,No,31-40,High,Senior,0
+50,31,Sales,Sales Executive,Female,3800,Yes,1,4,No,31-40,Low,Junior,0
+51,58,Research & Development,Healthcare Representative,Male,9371,Yes,12,1,No,51+,Medium,Senior,0
+52,36,Sales,Sales Representative,Male,8763,Yes,16,4,No,31-40,Medium,Senior,0
+53,55,Sales,Sales Representative,Female,13397,No,14,2,No,51+,High,Senior,0
+54,50,Human Resources,Manager,Female,11493,No,7,2,No,41-50,High,Senior,0
+55,26,Research & Development,Laboratory Technician,Female,12362,Yes,7,2,No,20-30,High,Senior,0
+56,46,Sales,Sales Executive,Female,8007,No,6,4,Yes,41-50,Medium,Mid-Level,1
+57,35,Research & Development,Research Scientist,Male,16767,No,12,4,No,31-40,High,Senior,0
+58,41,Sales,Sales Representative,Male,15779,No,13,2,No,41-50,High,Senior,0
+59,53,Research & Development,Laboratory Technician,Female,3951,Yes,12,4,No,51+,Low,Senior,0
+60,56,Sales,Manager,Male,3883,Yes,12,4,No,51+,Low,Senior,0
+61,33,Sales,Sales Representative,Male,4647,No,8,3,No,31-40,Low,Senior,0
+62,39,Research & Development,Laboratory Technician,Female,16813,Yes,8,1,No,31-40,High,Senior,0
+63,26,Research & Development,Research Scientist,Male,4319,Yes,0,2,No,20-30,Low,Junior,0
+64,52,Sales,Sales Executive,Female,6748,No,18,3,No,51+,Medium,Senior,0
+65,29,Sales,Manager,Male,8366,No,9,4,Yes,20-30,Medium,Senior,1
+66,34,Research & Development,Healthcare Representative,Male,5490,Yes,18,3,No,31-40,Medium,Senior,0
+67,58,Human Resources,Human Resources,Female,4345,Yes,11,3,No,51+,Low,Senior,0
+68,53,Sales,Sales Representative,Female,6458,Yes,13,4,No,51+,Medium,Senior,0
+69,55,Sales,Manager,Female,11850,No,19,4,No,51+,High,Senior,0
+70,42,Human Resources,Manager,Female,11044,Yes,2,4,No,41-50,High,Junior,0
+71,43,Human Resources,Manager,Male,3940,No,15,2,No,41-50,Low,Senior,0
+72,43,Research & Development,Laboratory Technician,Female,12163,Yes,19,2,No,41-50,High,Senior,0
+73,48,Sales,Sales Executive,Female,19009,No,17,4,No,41-50,High,Senior,0
+74,40,Sales,Sales Executive,Female,10261,No,12,4,No,31-40,High,Senior,0
+75,49,Human Resources,Manager,Female,13839,No,11,3,No,41-50,High,Senior,0
+76,34,Sales,Sales Executive,Male,13339,Yes,3,2,No,31-40,High,Mid-Level,0
+77,39,Human Resources,Manager,Female,12273,Yes,3,3,No,31-40,High,Mid-Level,0
+78,22,Sales,Sales Representative,Male,7147,No,8,2,Yes,20-30,Medium,Senior,1
+79,28,Human Resources,Manager,Female,3401,No,18,3,No,20-30,Low,Senior,0
+80,38,Sales,Sales Executive,Female,18654,No,3,1,No,31-40,High,Mid-Level,0
+81,31,Human Resources,Human Resources,Male,7888,Yes,18,1,No,31-40,Medium,Senior,0
+82,36,Human Resources,Manager,Female,15464,No,14,3,No,31-40,High,Senior,0
+83,28,Human Resources,Human Resources,Male,9808,Yes,20,2,No,20-30,Medium,Senior,0
+84,26,Sales,Manager,Female,8129,No,0,1,No,20-30,Medium,Junior,0
+85,40,Sales,Sales Representative,Female,17877,Yes,2,4,No,31-40,High,Junior,0
+86,36,Sales,Manager,Male,7882,Yes,8,2,No,31-40,Medium,Senior,0
+87,58,Research & Development,Healthcare Representative,Female,12457,No,14,3,Yes,51+,High,Senior,1
+88,50,Human Resources,Manager,Female,5635,No,19,3,Yes,41-50,Medium,Senior,1
+89,36,Sales,Sales Executive,Male,3679,No,8,4,No,31-40,Low,Senior,0
+90,49,Research & Development,Research Scientist,Female,19112,No,2,3,No,41-50,High,Junior,0
+91,32,Human Resources,Human Resources,Female,13807,No,13,1,No,31-40,High,Senior,0
+92,42,Research & Development,Research Scientist,Female,11270,Yes,10,4,Yes,41-50,High,Senior,1
+93,34,Research & Development,Research Scientist,Female,19988,No,11,1,No,31-40,High,Senior,0
+94,57,Sales,Sales Representative,Female,7293,Yes,9,1,No,51+,Medium,Senior,0
+95,32,Human Resources,Human Resources,Female,13182,Yes,17,2,Yes,31-40,High,Senior,1
+96,29,Sales,Sales Representative,Female,8045,No,15,4,No,20-30,Medium,Senior,0
+97,37,Research & Development,Laboratory Technician,Male,17967,Yes,17,1,Yes,31-40,High,Senior,1
+98,43,Research & Development,Laboratory Technician,Female,19637,No,8,4,No,41-50,High,Senior,0
+99,56,Sales,Sales Representative,Female,18870,No,11,3,No,51+,High,Senior,0
+100,37,Sales,Manager,Female,15549,Yes,7,3,No,31-40,High,Senior,0
+101,46,Human Resources,Manager,Female,15651,Yes,20,2,No,41-50,High,Senior,0
+102,28,Human Resources,Manager,Female,17427,Yes,3,2,No,20-30,High,Mid-Level,0
+103,31,Research & Development,Healthcare Representative,Female,5451,No,15,4,No,31-40,Medium,Senior,0
+104,43,Human Resources,Human Resources,Female,15452,Yes,10,1,No,41-50,High,Senior,0
+105,40,Sales,Manager,Male,10454,Yes,2,4,No,31-40,High,Junior,0
+106,41,Sales,Manager,Male,3948,No,1,3,No,41-50,Low,Junior,0
+107,31,Research & Development,Laboratory Technician,Male,11001,Yes,16,2,No,31-40,High,Senior,0
+108,46,Sales,Manager,Male,10891,Yes,15,4,No,41-50,High,Senior,0
+109,51,Human Resources,Manager,Female,11366,No,0,2,No,51+,High,Junior,0
+110,44,Sales,Sales Representative,Female,12802,No,20,3,No,41-50,High,Senior,0
+111,52,Sales,Sales Representative,Female,6494,No,7,3,No,51+,Medium,Senior,0
+112,47,Sales,Manager,Male,11994,No,0,3,No,41-50,High,Junior,0
+113,44,Sales,Manager,Female,10176,Yes,20,1,No,41-50,High,Senior,0
+114,41,Human Resources,Human Resources,Male,17444,Yes,1,3,No,41-50,High,Junior,0
+115,48,Research & Development,Healthcare Representative,Female,8755,No,6,2,Yes,41-50,Medium,Mid-Level,1
+116,40,Research & Development,Laboratory Technician,Male,14099,Yes,3,2,No,31-40,High,Mid-Level,0
+117,57,Human Resources,Manager,Male,14985,No,2,1,No,51+,High,Junior,0
+118,38,Research & Development,Laboratory Technician,Male,15485,Yes,20,4,No,31-40,High,Senior,0
+119,57,Sales,Manager,Male,13748,No,19,3,No,51+,High,Senior,0
+120,29,Human Resources,Manager,Female,7580,No,1,1,No,20-30,Medium,Junior,0
+121,56,Sales,Sales Executive,Female,7445,Yes,12,4,No,51+,Medium,Senior,0
+122,53,Human Resources,Human Resources,Female,16373,Yes,8,4,Yes,51+,High,Senior,1
+123,45,Research & Development,Research Scientist,Female,6255,Yes,11,4,No,41-50,Medium,Senior,0
+124,29,Research & Development,Research Scientist,Male,17900,Yes,2,3,No,20-30,High,Junior,0
+125,58,Sales,Sales Executive,Male,9724,Yes,2,2,No,51+,Medium,Junior,0
+126,22,Research & Development,Research Scientist,Female,12085,Yes,4,1,No,20-30,High,Mid-Level,0
+127,30,Human Resources,Human Resources,Male,3486,No,11,1,No,20-30,Low,Senior,0
+128,25,Sales,Sales Representative,Male,7153,No,13,4,No,20-30,Medium,Senior,0
+129,28,Research & Development,Healthcare Representative,Male,17811,No,16,4,No,20-30,High,Senior,0
+130,25,Human Resources,Human Resources,Male,18695,No,12,4,No,20-30,High,Senior,0
+131,42,Sales,Sales Executive,Female,7860,No,2,3,Yes,41-50,Medium,Junior,1
+132,49,Research & Development,Healthcare Representative,Male,6249,No,3,4,No,41-50,Medium,Mid-Level,0
+133,43,Sales,Sales Representative,Male,17860,No,12,4,No,41-50,High,Senior,0
+134,38,Research & Development,Healthcare Representative,Female,15265,Yes,4,1,No,31-40,High,Mid-Level,0
+135,49,Sales,Sales Executive,Male,6164,No,11,1,No,41-50,Medium,Senior,0
+136,49,Research & Development,Laboratory Technician,Female,4685,Yes,9,2,No,41-50,Low,Senior,0
+137,52,Sales,Manager,Female,10348,Yes,3,3,No,51+,High,Mid-Level,0
+138,49,Human Resources,Human Resources,Female,3860,Yes,19,2,No,41-50,Low,Senior,0
+139,41,Research & Development,Healthcare Representative,Male,14135,No,11,1,Yes,41-50,High,Senior,1
+140,23,Sales,Manager,Female,6006,No,16,3,No,20-30,Medium,Senior,0
+141,41,Sales,Sales Representative,Male,13629,Yes,18,2,No,41-50,High,Senior,0
+142,27,Human Resources,Human Resources,Female,11916,No,14,4,No,20-30,High,Senior,0
+143,54,Research & Development,Research Scientist,Female,6729,No,11,3,No,51+,Medium,Senior,0
+144,47,Sales,Sales Executive,Male,4795,Yes,0,3,No,41-50,Low,Junior,0
+145,29,Research & Development,Laboratory Technician,Male,3253,Yes,15,4,No,20-30,Low,Senior,0
+146,54,Human Resources,Human Resources,Male,14605,No,2,1,No,51+,High,Junior,0
+147,42,Research & Development,Research Scientist,Female,17066,No,18,1,No,41-50,High,Senior,0
+148,42,Research & Development,Research Scientist,Female,8631,Yes,19,4,No,41-50,Medium,Senior,0
+149,49,Sales,Sales Executive,Female,16121,No,16,2,Yes,41-50,High,Senior,1
+150,26,Research & Development,Research Scientist,Male,19727,No,20,3,Yes,20-30,High,Senior,1
+151,37,Human Resources,Human Resources,Male,6368,Yes,4,1,No,31-40,Medium,Mid-Level,0
+152,53,Sales,Manager,Female,18202,No,18,3,No,51+,High,Senior,0
+153,26,Sales,Sales Representative,Female,18365,Yes,14,3,No,20-30,High,Senior,0
+154,41,Human Resources,Human Resources,Female,18130,No,14,1,Yes,41-50,High,Senior,1
+155,54,Human Resources,Human Resources,Male,15598,No,14,2,No,51+,High,Senior,0
+156,52,Research & Development,Healthcare Representative,Female,19428,Yes,4,3,No,51+,High,Mid-Level,0
+157,54,Human Resources,Human Resources,Female,8654,No,1,2,No,51+,Medium,Junior,0
+158,40,Research & Development,Laboratory Technician,Male,15694,No,13,1,No,31-40,High,Senior,0
+159,57,Research & Development,Research Scientist,Male,15666,No,9,1,No,51+,High,Senior,0
+160,44,Human Resources,Human Resources,Female,13165,Yes,20,1,No,41-50,High,Senior,0
+161,46,Research & Development,Healthcare Representative,Male,13763,No,4,3,No,41-50,High,Mid-Level,0
+162,41,Sales,Sales Representative,Female,8906,Yes,6,2,No,41-50,Medium,Mid-Level,0
+163,26,Sales,Sales Executive,Male,12692,No,3,2,No,20-30,High,Mid-Level,0
+164,31,Human Resources,Manager,Male,8316,No,5,1,No,31-40,Medium,Mid-Level,0
+165,37,Research & Development,Laboratory Technician,Female,17555,Yes,19,2,No,31-40,High,Senior,0
+166,34,Research & Development,Laboratory Technician,Female,15053,No,18,4,No,31-40,High,Senior,0
+167,32,Human Resources,Manager,Female,9543,Yes,19,4,Yes,31-40,Medium,Senior,1
+168,28,Research & Development,Healthcare Representative,Male,19905,No,3,4,No,20-30,High,Mid-Level,0
+169,49,Human Resources,Human Resources,Female,6005,Yes,7,4,No,41-50,Medium,Senior,0
+170,54,Sales,Sales Representative,Male,15253,No,7,2,No,51+,High,Senior,0
+171,28,Sales,Sales Representative,Female,13986,No,4,2,Yes,20-30,High,Mid-Level,1
+172,50,Human Resources,Manager,Male,3172,Yes,2,4,Yes,41-50,Low,Junior,1
+173,37,Sales,Sales Representative,Female,12868,No,3,1,Yes,31-40,High,Mid-Level,1
+174,56,Sales,Sales Representative,Male,3538,Yes,20,3,No,51+,Low,Senior,0
+175,44,Research & Development,Research Scientist,Male,10882,No,18,1,No,41-50,High,Senior,0
+176,46,Human Resources,Human Resources,Female,18405,No,1,1,No,41-50,High,Junior,0
+177,44,Research & Development,Research Scientist,Female,10901,Yes,20,1,Yes,41-50,High,Senior,1
+178,43,Research & Development,Healthcare Representative,Female,8737,Yes,14,2,No,41-50,Medium,Senior,0
+179,51,Sales,Manager,Male,4211,Yes,9,3,No,51+,Low,Senior,0
+180,47,Research & Development,Healthcare Representative,Male,18512,No,8,3,Yes,41-50,High,Senior,1
+181,43,Sales,Manager,Female,11952,No,3,4,No,41-50,High,Mid-Level,0
+182,33,Research & Development,Laboratory Technician,Female,19259,Yes,15,4,No,31-40,High,Senior,0
+183,33,Sales,Sales Representative,Female,12626,No,10,3,Yes,31-40,High,Senior,1
+184,49,Research & Development,Healthcare Representative,Male,8460,No,14,4,No,41-50,Medium,Senior,0
+185,25,Research & Development,Healthcare Representative,Male,5458,Yes,20,2,No,20-30,Medium,Senior,0
+186,24,Human Resources,Manager,Female,7136,No,2,4,No,20-30,Medium,Junior,0
+187,31,Human Resources,Human Resources,Male,17743,Yes,11,3,No,31-40,High,Senior,0
+188,39,Research & Development,Laboratory Technician,Male,11179,No,3,4,Yes,31-40,High,Mid-Level,1
+189,38,Human Resources,Human Resources,Female,11529,No,14,2,No,31-40,High,Senior,0
+190,26,Sales,Sales Executive,Female,17812,Yes,5,3,No,20-30,High,Mid-Level,0
+191,26,Human Resources,Manager,Male,12514,No,9,2,No,20-30,High,Senior,0
+192,30,Sales,Sales Executive,Female,10757,No,15,2,Yes,20-30,High,Senior,1
+193,26,Human Resources,Human Resources,Female,13134,No,12,4,No,20-30,High,Senior,0
+194,30,Human Resources,Human Resources,Female,13388,No,20,2,Yes,20-30,High,Senior,1
+195,30,Human Resources,Human Resources,Male,17176,Yes,16,2,No,20-30,High,Senior,0
+196,32,Research & Development,Research Scientist,Female,13572,Yes,7,3,No,31-40,High,Senior,0
+197,57,Sales,Manager,Male,11993,Yes,4,2,No,51+,High,Mid-Level,0
+198,43,Sales,Manager,Female,4349,Yes,0,4,Yes,41-50,Low,Junior,1
+199,53,Human Resources,Human Resources,Female,12491,Yes,20,4,No,51+,High,Senior,0
+200,26,Research & Development,Laboratory Technician,Female,4963,No,5,2,No,20-30,Low,Mid-Level,0
